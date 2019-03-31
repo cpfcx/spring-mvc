@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-websocket-4.3.16.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-websocket-4.3.16.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

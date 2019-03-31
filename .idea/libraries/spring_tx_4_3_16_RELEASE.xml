@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spring-tx-4.3.16.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-tx-4.3.16.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-web-4.1.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-web-4.3.16.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
